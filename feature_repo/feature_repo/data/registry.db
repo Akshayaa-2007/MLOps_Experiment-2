@@ -1,0 +1,45 @@
+
+L
+,
+__dummy"
+__dummy_idJstudent_feature_store
+âı­ÕĞÕĞ âı­ÕĞÕĞ 
+s
+S
+
+student_id"Unique identifier for each student"
+student_idJstudent_feature_store
+âı­ÕĞÕĞ âı­ÕĞÕĞ 1"$c881542a-c418-4aa7-9c16-2364c91e4f20*£€®ÕÈ½ĞÅ2Ÿ
+å
+student_featuresstudent_feature_store
+student_id"
+
+attendance"
+assignment_score"
+internal_mark*
+domainStudent Performance*
+projectMLOps2€ç„:¡event_timestampZdata/student_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢student_features_source’áı­Õ äíÈ"âı­ÕĞÕĞ @b
+
+student_id’latest5
+âı­ÕĞÕĞ £€®ÕÈ½ĞÅ
+£™©Æ öùKÿÏ‹Ë0Rš
+—
+,feast.infra.online_stores.sqlite.SqliteTable"g
+=D:\EXP-2-Feast\feature_repo\feature_repo\data\online_store.db&student_feature_store_student_featuresb¹event_timestampZdata/student_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢student_features_sourceªstudent_feature_store’áı­Õ äíÈ"âı­ÕĞÕĞ Š7
+
+student_feature_store
+áı­ÕœÄÕáı­ÕœÄÕ’÷
+ô
+student_featuresstudent_feature_store"feature_view*†
+å
+student_featuresstudent_feature_store
+student_id"
+
+attendance"
+assignment_score"
+internal_mark*
+domainStudent Performance*
+projectMLOps2€ç„:¡event_timestampZdata/student_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢student_features_source’áı­Õ äíÈ"âı­ÕĞÕĞ @b
+
+student_id’latest
+âı­ÕĞÕĞ âı­ÕĞÕĞ 2âı­Õ˜ß¿¢B$2f3de36b-bf8c-40f4-b923-823cb9e2bdf3
